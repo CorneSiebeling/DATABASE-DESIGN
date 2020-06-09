@@ -21,7 +21,7 @@ Bij de opdrachten ga je kleine databasejes maken met 2 of 3 tabellen.
 ## Eindresultaat
 
 De video is bekeken
-
+gedaan
 ## Bronnen
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau1/taak01/niv 1 - ERD - entiteiten.pdf">niv 1 - ERD - entiteiten</a>  
 - Powerpoint: <a href="https://github.com/ROC-van-Amsterdam-College-Amstelland/DATABASE-DESIGN/blob/master/niveau2/taak01/niv 2 - sleutels en relaties.pdf">niv 2 - sleutels en relaties</a>  
